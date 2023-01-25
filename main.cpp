@@ -50,4 +50,5 @@ int main(){
         	trigger=0;		//Die 1 auf PA_10 wieder wegnehmen => 0		
         	while(fertig==0);	//Warten bis die fallende Flanke kommt
     }
+    
 }
