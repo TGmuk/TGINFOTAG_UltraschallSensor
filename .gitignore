@@ -8,4 +8,3 @@ BUILD
 compile_commands.json
 .clangd
 .cache
-LCD_i2c_GSOE
